@@ -8,16 +8,16 @@
 | Member | AI System Tested |
 |--------|-----------------|
 | Momina Liaqat Ali | Mistral 7B (Local via Ollama) |
-| [Member 2 Name] | Claude Sonnet 4.6 |
-| [Member 3 Name] | Gemini |
+| Suchitra | Claude Sonnet 4.6 |
+| Satvick | Gemini |
 
 ## Fictitious Organization
 MedAssist AI — Patient-facing medical chatbot for a general medical practice.
 
 ## Repository Structure
 Experiments/MominaAli - Mistral 7B test logs
-Experiments/Member2   - Claude test logs
-Experiments/Member3   - Gemini test logs
+Experiments/Suchitra   - Claude test logs
+Experiments/Satvick   - Gemini test logs
 ChatLogs/Mistral      - Raw Ollama chat logs
 Collaboration         - WeekA.pdf and WeekB.pdf
 Analysis              - findings.md
