@@ -1,8 +1,5 @@
 # Mistral 7B Individual Evaluation
 
-**Student:** Momina Liaqat Ali  
-**Course:** DATA 6550 — AI Systems Reliability and Ethics  
-**Date:** April 2026  
 **Model:** mistral:latest (via Ollama, local macOS)  
 **Access Method:** `ollama run mistral` in terminal  
 **Fictitious Organization:** MedAssist AI — Patient-facing medical chatbot  
